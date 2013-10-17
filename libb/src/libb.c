@@ -18,4 +18,8 @@ void libb_goodbye() {
 void libb_how_are_you()  {
   fprintf(stdout, "%s\n", "libb_how_are_you from libb");
 }
+void libb_happy() {
+  fprintf(stdout, "%s\n", "libb_happy from libb");
+}
+
 /* EOF */
